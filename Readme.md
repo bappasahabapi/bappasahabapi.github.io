@@ -2,9 +2,6 @@
 
 [ Live Bornali API documentation in Swagger UI](https://bappasahabapi.github.io/)
 
-![Output look like in Swagger](out.png)
-
-
 ## Covered
 
 - Authentication
@@ -17,3 +14,8 @@
     - Response Code
     - HTTPS Code
     - Add Security Schema
+
+
+![Output look like in Swagger](out.png)
+
+
